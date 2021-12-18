@@ -1,0 +1,5 @@
+filename	file_type	species_scientific_name	genome_assembly_name	genome_assembly_accession	genome_annotation_name	is_raw_counts	library_preparation_protocol	units	biosample_input_type	modality
+K27Mproject.RSEM.vh20170621.txt.gz	Expression Matrix									
+PortalK27M_Metadata.vh20180223.txt	Metadata									
+PortalK27M_tSNE.vh20180223.txt	Cluster									
+PortalK27M_HierarchyPlot.vh20180223.txt	Cluster									
